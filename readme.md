@@ -150,7 +150,7 @@ At [Mernchat](https://mernchat.in), i am committed to transparency and security.
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/RishiBakshii/nextjs-chat-app
+git clone https://github.com/Pranjjallll/nextjs-chat-app
 cd nextjs-chat-app
 ```
 
@@ -276,16 +276,12 @@ Contributions are welcome! To contribute:
 
 ## **📧 Contact**  
 For feedback or queries, reach out:  
-🔗 **[LinkedIn @Rishi Bakshi](https://www.linkedin.com/in/rishi-bakshi/)**
+🔗 **[LinkedIn @Pranjal-Sharma](https://linkedin.com/in/pranjallsh)**
 <br/>
-📩 **[rishibakshiofficial@gmail.com](mailto:rishibakshiofficial@gmail.com)**  
+📩 **[pranjal.sharma0010@gmail.com](mailto:pranjal.sharma0010@gmail.com)**  
 
 ---
-
-![GitHub Repo stars](https://img.shields.io/github/stars/RishiBakshii/nextjs-chat-app?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/RishiBakshii/nextjs-chat-app?style=social)  
-![GitHub issues](https://img.shields.io/github/issues/RishiBakshii/nextjs-chat-app)  
-![GitHub license](https://img.shields.io/github/license/RishiBakshii/nextjs-chat-app)  
+  
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)  
 
 ---
